@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4083f468e8b6e15f278d4f92ce797591",
+    "revision": "71160d2f37fbb8855e68a1795cae3f3c",
     "url": "/iverb-stats/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iverb-stats/static/js/2.0fe0ad21.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c2464ca7be98b615acc",
-    "url": "/iverb-stats/static/js/main.2f2a56fc.chunk.js"
+    "revision": "efa68c54891cd0e72fee",
+    "url": "/iverb-stats/static/js/main.8bdf8cd4.chunk.js"
   },
   {
     "revision": "00ecca218162ed958e27",
